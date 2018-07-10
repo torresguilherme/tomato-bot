@@ -1,0 +1,5 @@
+*.swp
+*.txt
+*.log
+key.py
+__pycache__/*
